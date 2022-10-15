@@ -1,0 +1,40 @@
+.rangeForm {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+
+  width: 100%;
+}
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+
+  max-width: 100%;
+}
+.button {
+  display: block;
+  text-align: center;
+
+  padding: 8px 16px;
+  min-width: 88px;
+
+  background-color: #fff;
+  border-style: none;
+
+  box-shadow: 0 0 3px rgba(122, 122, 122, 0.5);
+}
+.active:hover{
+  box-shadow: 0 0 10px rgba(122, 122, 122, 0.5);
+}
+.active:active{
+  box-shadow: 0 0 3px rgba(122, 122, 122, 0.5);
+}
+.button.active{
+
+}
+.button.notActive{
+  pointer-events: none;
+  opacity: 0.5;
+}

@@ -1,0 +1,26 @@
+.markerBox {
+  display: block;
+  position: absolute;
+  height: 20px;
+  width: 20px;
+
+
+}
+.markerBtn{
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  height: 20px;
+  width: 20px;
+
+  border-style: none;
+
+  background-color: #fff;
+  border-radius: 50%;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+.markerLinkBox{}
+.markerLink{
+  
+}
