@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/market_admin/static/css/main.fa3a4f60.css",
+    "main.js": "/market_admin/static/js/main.f2daf9f4.js",
+    "index.html": "/market_admin/index.html",
+    "main.fa3a4f60.css.map": "/market_admin/static/css/main.fa3a4f60.css.map",
+    "main.f2daf9f4.js.map": "/market_admin/static/js/main.f2daf9f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa3a4f60.css",
+    "static/js/main.f2daf9f4.js"
+  ]
+}
